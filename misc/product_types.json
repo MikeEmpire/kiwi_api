@@ -1,0 +1,14 @@
+{
+  "categories": {
+    "flower": ["indica", "sativa", "hybrid"],
+    "edibles": null,
+    "concentrates": [
+      "Butane Hash Oil",
+      "Tinctures",
+      "Cannabis Oil",
+      "Co2 Oil",
+      "Cooking Oil",
+      "Solvent Less Concentrates"
+    ]
+  }
+}
