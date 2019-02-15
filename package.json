@@ -8,10 +8,10 @@
   },
   "scripts": {
     "babel-node": "babel-node --presets=env",
+    "start-db": "sh config/db/bin/startDb.sh",
     "client": "npm run start --prefix client",
-    "dev": "NODE_ENV=development npm-run-all --parallel test server client",
     "server": "nodemon ./index.js",
-    "start": "node ./server/index.js",
+    "start": "node ./index.js",
     "test": "mocha ./test --exit"
   },
   "keywords": [],
